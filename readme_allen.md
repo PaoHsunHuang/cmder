@@ -8,6 +8,13 @@ There are 3 addition file in cmder/vendor/bin/, lib_allen.cmd ls.c random.c. Thi
 could be put into same directory for portable version, and still be able to use it.
 
 ## function description 
+usage: 
+historyClear
+
+description:
+clear all the command history
+
+##
 usage:
 lib_allen re
 
