@@ -3,7 +3,8 @@ by myself. There is help comment from my library and it show how to call the fun
 and what is each function doing. Every function could be call by lib_allen functionName
 except **myls** and **random**, those 2 function require **lib_allen make** beofre use it.
 
-
+There are 3 addition file in cmder/vendor/bin/, lib_allen.cmd ls.c random.c. This 3 file 
+could be put into same directory for portable version, and still be able to use it.
 
 |==============================================
 |lib_allen -- simple library build by allen
