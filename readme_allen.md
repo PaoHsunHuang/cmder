@@ -14,7 +14,7 @@ lib_allen re
 description:
 restart shell
 
-
+##
 usage:
 ib_allen myls [/-t /-d /-f]
 
@@ -25,7 +25,7 @@ list all file in current directory
 -f str, match the argument with file name
 only output the file that match name
 
-
+##
 usage:
 lib_allen random [int]
 
@@ -33,14 +33,14 @@ description:
 give random number, allow uesr give new range
 default number is 100
 
-
+## 
 usage:
 lib_allen home
 
 description:
 output execute file repository
 
-
+## 
 usage:
 lib_allen make
 
